@@ -1,5 +1,5 @@
 # Ecodecamp_Task_number_3
-To create a good descriptive README for your customer churn analysis project, here’s a template based on what you've shared:
+
 
 
 # Customer Churn Analysis Project
